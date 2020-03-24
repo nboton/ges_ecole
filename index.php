@@ -1,7 +1,7 @@
 <html>
 <head></head>
 <body style="background-color:#1abc9c">
-<h3 style="padding-top:20%; padding-bottom:20%; text-align:center;">Mon premier coup</h3>
+<h3 style="padding-top:20%; padding-bottom:20%; text-align:center; color:#FFFFFF">Mon premier coup</h3>
 <?php
 //ex1
 $k=4;
